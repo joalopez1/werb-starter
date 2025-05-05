@@ -1,0 +1,39 @@
+h1 {
+  color: blue;
+  font-size: 50px;
+}
+
+p,
+.lista {
+  font-size: 20px;   /* la coma sirve para aplicar el mismo estilo a varios elementos */
+}
+
+.lista {
+  color: brown;
+}
+  
+h2 {
+  font-family: "arial", sans-serif;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 10%;
+  border-width: 10px;
+  border-style: solid dashed double groove;
+  border-color: blue;
+}
+
+div {
+  background-color: lightblue;
+}
+  
+.contenedor-listas {
+  background-color: lightsalmon;
+}
+
+#titulo-ul1 {
+  font-family: verdana;
+  background-color: lightgreen;
+}
