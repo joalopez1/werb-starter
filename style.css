@@ -16,7 +16,20 @@ h2 {
   font-family: "arial", sans-serif;
 }
 
-img {
+.contenedor-listas {
+  background-color: lightsalmon;
+}
+
+div {
+  background-color: lightblue;
+}
+
+#titulo-ul1 {
+  font-family: verdana;
+  background-color: lightgreen;
+}
+
+#img1 {
   width: 200px;
   height: 200px;
   border-radius: 10%;
@@ -25,15 +38,12 @@ img {
   border-color: blue;
 }
 
-div {
-  background-color: lightblue;
-}
-  
-.contenedor-listas {
-  background-color: lightsalmon;
-}
-
-#titulo-ul1 {
-  font-family: verdana;
-  background-color: lightgreen;
+#img2 {
+  width: 200px;
+  height: 200px;
+  padding: 15px;
+  background-color: yellow;
+  border-width: 2px;
+  border-color: blue;
+  border-style: solid;
 }
