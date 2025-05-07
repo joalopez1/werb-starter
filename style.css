@@ -36,14 +36,30 @@ div {
   border-width: 10px;
   border-style: solid dashed double groove;
   border-color: blue;
+  padding: 10px 15px 20px 25px;
+  background-color: lightcoral;
+  margin: 15px;
 }
 
 #img2 {
   width: 200px;
   height: 200px;
-  padding: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
   background-color: yellow;
   border-width: 2px;
   border-color: blue;
   border-style: solid;
 }
+
+/* 
+img[alt] {
+  borer-radius: 50%; Se aplica a todas las imágenes que tengan el atributo alt 
+} 
+*/
+
+/* 
+input[type="radio"]{
+  se aplica a todos los inputs que tenga el atributo type con el valor = radio
+} 
+*/
