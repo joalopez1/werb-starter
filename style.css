@@ -9,11 +9,12 @@ p,
 }
 
 .lista {
-  color: brown;
+  color: brown !important; /* el !important hace que el color se aplique sin importar lo que haya en el html */
 }
   
 h2 {
   font-family: "arial", sans-serif;
+  color: #10e69a
 }
 
 .contenedor-listas {
